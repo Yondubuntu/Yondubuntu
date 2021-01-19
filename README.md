@@ -10,7 +10,7 @@
   </div>
   
   
-  [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/endyd4)](https://www.facebook.com/endyd4)
+  [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/endyd4)](https://www.facebook.com/tutu2slow)
 	
 	
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jdy970130@gmail.com)](mailto:jdy970130@gmail.com)
