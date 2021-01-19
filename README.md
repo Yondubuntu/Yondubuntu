@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-GitHub Readme Stats: github-readme-stats.vercel.app/api?username={Yondubuntu}&show_icons=true
-
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yondubuntu&repo=Yondubuntu)
