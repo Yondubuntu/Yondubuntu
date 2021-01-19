@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-!github-readme-stats.vercel.app/api?username={Yondubuntu}&show_icons=true&theme=dark
+!{readmecard} github-readme-stats.vercel.app/api?username={Yondubuntu}&show_icons=true&theme=dark
 
 
