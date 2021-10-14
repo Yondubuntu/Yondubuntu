@@ -1,9 +1,12 @@
-  
+ 
+hi this du yong from korea 
+I m 
+ 
+ 
+ 
  
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Yondubuntu)](https://github.com/anuraghazra/github-readme-stats)
 
-
-hi this du yong from korea 
 
 
 <div align=center>
