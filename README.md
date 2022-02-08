@@ -7,7 +7,7 @@ I am originally in the Department of Computer Engineering at Yonsei University M
 
 My skill stack is C language and Python language 
 
-Welcome to my Git Hub.
+Welcome to my Git Hub 😽.
 
  
  
