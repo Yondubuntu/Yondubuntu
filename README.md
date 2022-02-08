@@ -1,5 +1,7 @@
  
-hi this du yong from korea
+Hi this Du yong from South Korea
+
+I m studying now in Purdue University 
 
 I m 
  
