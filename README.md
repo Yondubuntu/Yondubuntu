@@ -3,9 +3,10 @@ Hi this Du yong from South Korea
 
 I m studying now in Purdue University 
 
-I am originally in the Department of Computer Engineering at Yonsei University Mirae campus .
+I am originally in the Department of Computer Engineering at Yonsei University Mirae campus .<br>
+Minor major in venture Science  in Sinchon campus. 
 
-My skill stack is C language and Python language 
+My skill stack is C language , Java ,Javascript , and Python 
 
 Welcome to my Git Hub 😽.
 
